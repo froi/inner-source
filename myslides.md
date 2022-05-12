@@ -142,9 +142,9 @@ The embrace of openness and free exchange of ideas to push a community's creativ
 
 Let's start with how we can collaborate in a more open and community driven way.
 
-We need to be able to accept contributions into our repos from other pods. Even from teammates that aren't engineers. Closing ourselves off only creates silos and makes it difficult for us feed off of each other's knowledge.
+We need to be able to accept contributions into our repos from other teams. Even from teammates that aren't engineers. Closing ourselves off only creates silos and makes it difficult for us feed off of each other's knowledge.
 
-While a pod may be the code owner for a repo, we should invite outside contributions, be it code, documentation, bugs, and especially questions.
+While a team may be the code owner for a repo, we should invite outside contributions, be it code, documentation, bugs, and especially questions.
 
 :::
 
@@ -260,5 +260,17 @@ At the end all this is about fostering a contributor community in our enterprise
 
 I'm not going to lie and say that these changes are easy or that we can do them over night. But I do think that it's worth to put the effort and start implementing them in a strategic way that can enable us help our teammate push the best products they can
 :::
+
+---
+
+## Resources
+
+The What                      | The Where
+----------------------------- | ----------------------------------------------------------------------
+Inner Source Commons          | https://innersourcecommons.org/
+Inner Source Commons YouTube  | https://www.youtube.com/c/InnerSourceCommons
+Wikipedia                     | https://en.wikipedia.org/wiki/Inner_source
+GitHub's take on Inner Source | https://resources.github.com/innersource/fundamentals/
+GitLab's take on Inner Source | https://about.gitlab.com/topics/version-control/what-is-innersource/
 
 # Thanks!
