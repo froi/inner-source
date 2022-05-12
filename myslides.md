@@ -267,10 +267,10 @@ I'm not going to lie and say that these changes are easy or that we can do them 
 
 The What                      | The Where
 ----------------------------- | ----------------------------------------------------------------------
-Inner Source Commons          | https://innersourcecommons.org/
-Inner Source Commons YouTube  | https://www.youtube.com/c/InnerSourceCommons
-Wikipedia                     | https://en.wikipedia.org/wiki/Inner_source
-GitHub's take on Inner Source | https://resources.github.com/innersource/fundamentals/
-GitLab's take on Inner Source | https://about.gitlab.com/topics/version-control/what-is-innersource/
+Inner Source Commons          | [https://innersourcecommons.org/](https://innersourcecommons.org/)
+Inner Source Commons YouTube  | [https://www.youtube.com/c/InnerSourceCommons](https://www.youtube.com/c/InnerSourceCommons)
+Wikipedia                     | [https://en.wikipedia.org/wiki/Inner_source](https://en.wikipedia.org/wiki/Inner_source)
+GitHub's take on Inner Source | [https://resources.github.com/innersource/fundamentals/](https://resources.github.com/innersource/fundamentals/)
+GitLab's take on Inner Source | [https://about.gitlab.com/topics/version-control/what-is-innersource/](https://about.gitlab.com/topics/version-control/what-is-innersource/)
 
 # Thanks!
