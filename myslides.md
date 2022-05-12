@@ -106,7 +106,7 @@ After a while of me just sitting, trying to articulate what was in my brain, I l
 
 ---
 
-![](../images/word-cloud.svg){width=100%}
+![](images/word-cloud.svg){width=100%}
 
 ::: notes
 
@@ -150,7 +150,7 @@ While a pod may be the code owner for a repo, we should invite outside contribut
 
 ---
 
-![](../images/github-logo.png){width=500px}
+![](images/github-logo.png){width=500px}
 
 ::: notes
 
@@ -162,7 +162,7 @@ A big part of a project is not just it's code but also decisions, conversations,
 
 ---
 
-![](../images/github-collab-features.png){width=100$}
+![](images/github-collab-features.png){width=100$}
 
 ::: notes
 
@@ -186,7 +186,7 @@ I thought it important to keep separate for one specific reason
 
 ### Repo visibility
 
-![](../images/github-repo-visibility.png)
+![](images/github-repo-visibility.png)
 
 ::: notes
 
